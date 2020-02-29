@@ -1,5 +1,5 @@
 {
-  "name": "griphook",
+  "name": "@alibaba-aero/griphook",
   "version": "1.0.0",
   "description": "Validate and visualize Iranian bank info",
   "main": "index.js",
@@ -13,6 +13,6 @@
     "js",
     "bank"
   ],
-  "author": "Javid Izadfar <j.izadfar@alibaba.ir>",
+  "author": "Javid Izadfar",
   "license": "MIT"
 }
