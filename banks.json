@@ -1,0 +1,381 @@
+{
+    "banks": [
+        {
+            "name": "ansar",
+            "name_farsi": "انصار",
+            "icon": "Ansar.svg",
+            "iban_nbc": "063",
+            "pan_iin": [
+                "627381"
+            ]
+        },
+        {
+            "name": "ayandeh",
+            "name_farsi": "آینده",
+            "icon": "Ayandeh.svg",
+            "iban_nbc": "062",
+            "pan_iin": [
+                "636214"
+            ]
+        },
+        {
+            "name": "bank_markazi",
+            "name_farsi": "بانک مرکزی",
+            "icon": "Bank_Markazi.svg",
+            "iban_nbc": "010",
+            "pan_iin": [
+                "636795"
+            ]
+        },
+        {
+            "name": "caspian",
+            "name_farsi": "کاسپین",
+            "icon": "Caspian.svg",
+            "iban_nbc": "",
+            "pan_iin": []
+        },
+        {
+            "name": "dey",
+            "name_farsi": "دی",
+            "icon": "Dey.svg",
+            "iban_nbc": "066",
+            "pan_iin": [
+                "502938"
+            ]
+        },
+        {
+            "name": "eghtesad_novin",
+            "name_farsi": "اقتصاد نوین",
+            "icon": "Eghtesad_Novin.svg",
+            "iban_nbc": "055",
+            "pan_iin": [
+                "627412",
+                "627884"
+            ]
+        },
+        {
+            "name": "futurebank",
+            "name_farsi": "FutureBank",
+            "icon": "Futurebank.svg",
+            "iban_nbc": "",
+            "pan_iin": []
+        },
+        {
+            "name": "gardeshgari",
+            "name_farsi": "گردشگری",
+            "icon": "Gardeshgari.svg",
+            "iban_nbc": "064",
+            "pan_iin": [
+                "505416"
+            ]
+        },
+        {
+            "name": "ghavamin",
+            "name_farsi": "قوامین",
+            "icon": "Ghavamin.svg",
+            "iban_nbc": "052",
+            "pan_iin": [
+                "639599"
+            ]
+        },
+        {
+            "name": "hekmat",
+            "name_farsi": "حکمت",
+            "icon": "Hekmat.svg",
+            "iban_nbc": "065",
+            "pan_iin": [
+                "636949"
+            ]
+        },
+        {
+            "name": "iran_europe",
+            "name_farsi": "ایران و اروپا",
+            "icon": "Iran_Europe.svg",
+            "iban_nbc": "",
+            "pan_iin": []
+        },
+        {
+            "name": "iran_venezuela",
+            "name_farsi": "ایران و نزوئلا",
+            "icon": "Iran_Venezuela.svg",
+            "iban_nbc": "",
+            "pan_iin": []
+        },
+        {
+            "name": "kran_zamin",
+            "name_farsi": "ایران‌زمین",
+            "icon": "Iran_Zamin.svg",
+            "iban_nbc": "069",
+            "pan_iin": [
+                "505785"
+            ]
+        },
+        {
+            "name": "karafarin",
+            "name_farsi": "کارآفرین",
+            "icon": "Karafarin.svg",
+            "iban_nbc": "053",
+            "pan_iin": [
+                "502910",
+                "627488"
+            ]
+        },
+        {
+            "name": "keshavarzi",
+            "name_farsi": "کشاورزی",
+            "icon": "Keshavarzi.svg",
+            "iban_nbc": "016",
+            "pan_iin": [
+                "603770",
+                "639217"
+            ]
+        },
+        {
+            "name": "khavar_mianeh",
+            "name_farsi": "خاورمیانه",
+            "icon": "Khavar_Mianeh.svg",
+            "iban_nbc": "078",
+            "pan_iin": [
+                "505809"
+            ]
+        },
+        {
+            "name": "kosar",
+            "name_farsi": "کوثر",
+            "icon": "Kosar.svg",
+            "iban_nbc": "073",
+            "pan_iin": [
+                "505801"
+            ]
+        },
+        {
+            "name": "maskan",
+            "name_farsi": "مسکن",
+            "icon": "Maskan.svg",
+            "iban_nbc": "014",
+            "pan_iin": [
+                "628023"
+            ]
+        },
+        {
+            "name": "mehr_eghtesad",
+            "name_farsi": "مهر اقتصاد",
+            "icon": "Mehr_Eghtesad.svg",
+            "iban_nbc": "",
+            "pan_iin": [
+                "639370"
+            ]
+        },
+        {
+            "name": "mehr_iran",
+            "name_farsi": "مهر ایران",
+            "icon": "Mehr_Iran.svg",
+            "iban_nbc": "060",
+            "pan_iin": [
+                "606373"
+            ]
+        },
+        {
+            "name": "melall",
+            "name_farsi": "ملل",
+            "icon": "Melall.svg",
+            "iban_nbc": "075",
+            "pan_iin": [
+                "606256"
+            ]
+        },
+        {
+            "name": "mellat",
+            "name_farsi": "ملت",
+            "icon": "Mellat.svg",
+            "iban_nbc": "012",
+            "pan_iin": [
+                "610433",
+                "991975"
+            ]
+        },
+        {
+            "name": "melli",
+            "name_farsi": "ملی",
+            "icon": "Melli.svg",
+            "iban_nbc": "017",
+            "pan_iin": [
+                "603799",
+                "589905",
+                "170019"
+            ]
+        },
+        {
+            "name": "noor",
+            "name_farsi": "نور",
+            "icon": "Noor.svg",
+            "iban_nbc": "080",
+            "pan_iin": [
+                "507677"
+            ]
+        },
+        {
+            "name": "parsian",
+            "name_farsi": "پارسیان",
+            "icon": "Parsian.svg",
+            "iban_nbc": "054",
+            "pan_iin": [
+                "622106",
+                "639194"
+            ]
+        },
+        {
+            "name": "pasargad",
+            "name_farsi": "پاسارگاد",
+            "icon": "Pasargad.svg",
+            "iban_nbc": "057",
+            "pan_iin": [
+                "502229",
+                "639347"
+            ]
+        },
+        {
+            "name": "postbank",
+            "name_farsi": "پست‌بانک",
+            "icon": "Postbank.svg",
+            "iban_nbc": "021",
+            "pan_iin": [
+                "627760"
+            ]
+        },
+        {
+            "name": "refah",
+            "name_farsi": "رفاه",
+            "icon": "Refah.svg",
+            "iban_nbc": "013",
+            "pan_iin": [
+                "589463"
+            ]
+        },
+        {
+            "name": "resalat",
+            "name_farsi": "رسالت",
+            "icon": "Resalat.svg",
+            "iban_nbc": "070",
+            "pan_iin": [
+                "504172"
+            ]
+        },
+        {
+            "name": "saderat",
+            "name_farsi": "صادرات",
+            "icon": "Saderat.svg",
+            "iban_nbc": "019",
+            "pan_iin": [
+                "603769"
+            ]
+        },
+        {
+            "name": "saman",
+            "name_farsi": "سامان",
+            "icon": "Saman.svg",
+            "iban_nbc": "056",
+            "pan_iin": [
+                "621986"
+            ]
+        },
+        {
+            "name": "sanat_madan",
+            "name_farsi": "صنعت و معدن",
+            "icon": "Sanat_Madan.svg",
+            "iban_nbc": "011",
+            "pan_iin": [
+                "627961"
+            ]
+        },
+        {
+            "name": "sarmayeh",
+            "name_farsi": "سرمایه",
+            "icon": "Sarmayeh.svg",
+            "iban_nbc": "058",
+            "pan_iin": [
+                "639607"
+            ]
+        },
+        {
+            "name": "sepah",
+            "name_farsi": "سپه",
+            "icon": "Sepah.svg",
+            "iban_nbc": "015",
+            "pan_iin": [
+                "589210"
+            ]
+        },
+        {
+            "name": "shahr",
+            "name_farsi": "شهر",
+            "icon": "Shahr.svg",
+            "iban_nbc": "061",
+            "pan_iin": [
+                "502806",
+                "504706"
+            ]
+        },
+        {
+            "name": "sina",
+            "name_farsi": "سینا",
+            "icon": "Sina.svg",
+            "iban_nbc": "059",
+            "pan_iin": [
+                "639346"
+            ]
+        },
+        {
+            "name": "standard_chartered",
+            "name_farsi": "استاندارد چارترد",
+            "icon": "Standard_Chartered.svg",
+            "iban_nbc": "",
+            "pan_iin": []
+        },
+        {
+            "name": "taavon_eslami",
+            "name_farsi": "تعاون اسلامی",
+            "icon": "Taavon_Eslami.svg",
+            "iban_nbc": "",
+            "pan_iin": []
+        },
+        {
+            "name": "tejarat",
+            "name_farsi": "تجارت",
+            "icon": "Tejarat.svg",
+            "iban_nbc": "018",
+            "pan_iin": [
+                "585983",
+                "627353"
+            ]
+        },
+        {
+            "name": "tosee",
+            "name_farsi": "توسعه",
+            "icon": "Tosee.svg",
+            "iban_nbc": "051",
+            "pan_iin": [
+                "628157"
+            ]
+        },
+        {
+            "name": "tosee_saderat",
+            "name_farsi": "توسعه صادرات",
+            "icon": "Tosee_Saderat.svg",
+            "iban_nbc": "020",
+            "pan_iin": [
+                "207177",
+                "627648"
+            ]
+        },
+        {
+            "name": "tosee_taavon",
+            "name_farsi": "توسعه تعاون",
+            "icon": "Tosee_Taavon.svg",
+            "iban_nbc": "022",
+            "pan_iin": [
+                "502908"
+            ]
+        }
+    ]
+}
