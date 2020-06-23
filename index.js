@@ -16,7 +16,7 @@ const findBankByValue = (value, key) => {
     } else {
         const bank = banks.find(bank => bank[key] === value);
         if (!bank) return {};
-        cache[key] = { ...bank };
+        cache[value] = { ...bank };
         return bank;
     };
 };
