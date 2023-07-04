@@ -191,8 +191,8 @@ const findBankByIBAN = (accountNumber) => {
 
     const nationalBankCode = accountNumber.slice(4, 7); // Extract Issuer Identification Number
     // Check If nationalBankCode Was Cached
-    if (cache[NationalBankCode]) {
-        return cache[NationalBankCode];
+    if (cache[nationalBankCode]) {
+        return cache[nationalBankCode];
     } else {
         const bank = banks.find(bank => bank.iban_nbc === nationalBankCode);
         if (!bank) return {};
