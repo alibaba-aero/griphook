@@ -105,7 +105,7 @@ const findBankByPAN = (cardNumber) => {
     cardNumber = String(cardNumber); // Make Sure Working With Is String
 
     // Check Characters
-    if (!/^[\d*]+$/.test(cardNumber) && cardNumber.length < 6) return cardNumber;
+    if (!/^[\d*]+$/.test(cardNumber) || cardNumber.length < 6) return {};
 
     const iin = cardNumber.slice(0, 6); // Extract Issuer Identification Number
 
@@ -187,16 +187,16 @@ const findBankByIBAN = (accountNumber) => {
     accountNumber = String(accountNumber); // Make Sure Working With Is String
 
     // Check Characters
-    if (!/^IR[\d*]+$/.test(accountNumber) && accountNumber.length < 7) return accountNumber;
+    if (!/^IR[\d*]+$/.test(accountNumber) || accountNumber.length < 7) return {};
 
-    const NationalBankCode = accountNumber.slice(4, 7); // Extract Issuer Identification Number
-    // Check If NationalBankCode Was Cached
+    const nationalBankCode = accountNumber.slice(4, 7); // Extract Issuer Identification Number
+    // Check If nationalBankCode Was Cached
     if (cache[NationalBankCode]) {
         return cache[NationalBankCode];
     } else {
-        const bank = banks.find(bank => bank.iban_nbc === NationalBankCode);
+        const bank = banks.find(bank => bank.iban_nbc === nationalBankCode);
         if (!bank) return {};
-        cache[NationalBankCode] = { ...bank };
+        cache[nationalBankCode] = { ...bank };
         return bank;
     };
 };
