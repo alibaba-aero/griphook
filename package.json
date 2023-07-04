@@ -1,6 +1,6 @@
 {
   "name": "@alibaba-aero/griphook",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Validate and visualize Iranian bank info",
   "main": "index.js",
   "scripts": {},
